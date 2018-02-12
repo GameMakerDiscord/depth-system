@@ -1,6 +1,8 @@
 # DEPTH SYSTEM
 A depth system for GameMaker Studio 2, which sorts objects based on their y position in the room. Unlike the famous "depth = -y", this system will not move instances out of their current layer, allowing easier organisation of instance and tile layers. 
 
+Maintained by: friendlycosmonaut
+
 ## NOTE
 The only essential elements in this system are **depthsorter** and **par_depthobject**. You may delete everything else.
 
